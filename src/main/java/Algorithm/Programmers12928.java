@@ -1,5 +1,6 @@
 package Algorithm;
 
+
 public class Programmers12928 {
     class Solution {
         public int solution(int n) {

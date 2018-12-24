@@ -18,7 +18,6 @@ public class Programmers12943 {
         }
         return answer;
     }
-
 }
 
 

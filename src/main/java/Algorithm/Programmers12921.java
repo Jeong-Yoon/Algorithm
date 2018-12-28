@@ -1,7 +1,5 @@
 package Algorithm;
 
-import java.util.ArrayList;
-
 public class Programmers12921 {
     public static int solution(int n) {
         int answer = 0;

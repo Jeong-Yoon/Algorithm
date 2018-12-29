@@ -24,7 +24,7 @@ public class Programmers12910 {
         Arrays.sort(answer);
         return answer;
     }
-
+    
     public static void main(String args[]) {
         int[] arr = {3,2,6};
         solution(arr, 5);
@@ -33,4 +33,3 @@ public class Programmers12910 {
         }
     }
 }
-

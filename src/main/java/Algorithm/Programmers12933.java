@@ -1,6 +1,5 @@
 package Algorithm;
 
-public class Programmers12933 {
 import java.util.Arrays;
 
 public class Programmers12933 {

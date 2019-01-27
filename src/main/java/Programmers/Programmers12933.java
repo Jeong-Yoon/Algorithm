@@ -1,6 +1,4 @@
-package Algorithm;
-
-import java.util.Arrays;
+package Programmers;
 
 public class Programmers12933 {
     public long solution(long n) {

@@ -1,4 +1,4 @@
-package Algorithm;
+package Programmers;
 
 public class Programmers12912 {
     public long solution(int a, int b) {

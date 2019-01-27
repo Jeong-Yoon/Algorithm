@@ -1,4 +1,4 @@
-package Algorithm;
+package Programmers;
 
 public class Programmers42588 {
     public int[] solution(int[] heights) {

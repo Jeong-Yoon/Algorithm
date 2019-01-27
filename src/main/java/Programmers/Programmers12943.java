@@ -1,4 +1,4 @@
-package Algorithm;
+package Programmers;
 
 public class Programmers12943 {
     public static int solution(int num) {

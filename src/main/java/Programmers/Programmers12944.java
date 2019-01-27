@@ -1,4 +1,4 @@
-package Algorithm;
+package Programmers;
 
 public class Programmers12944 {
     public double solution(int[] arr) {

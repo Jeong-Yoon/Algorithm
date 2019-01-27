@@ -24,6 +24,6 @@ public class Programmers12933 {
         return answer;
     }
     public static void main(String args[]){
-        System.out.println(solution());
+//        System.out.println(solution());
     }
 }

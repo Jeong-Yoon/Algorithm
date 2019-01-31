@@ -1,6 +1,5 @@
 package Programmers;
 
-// 런타임에러
 public class Programmers12915 {
     public String[] solution(String[] strings, int n) {
         String[] answer = {};

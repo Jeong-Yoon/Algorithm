@@ -7,3 +7,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프로그래머스 12940 최대공약수와 최소공배수<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;백준 알고리즘 2609 최대공약수와 최소공배수
 - 2019.02.11 : 프로그래머스 12932 자연수 뒤집어 배열로 만들기
+- 2019.02.12 : 프로그래머스 12917 문자열 내림차순으로 배치하기

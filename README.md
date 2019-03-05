@@ -19,3 +19,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프로그래머스 12939 최댓값과 최솟값<br>
 - 2019.02.22 : 프로그래머스 12951 JadenCase 문자열 만들기
 - 2019.02.27 : 프로그래머스 12949 행렬의 곱셈
+- 2019.03.04 : 프로그래머스 42576 완주하지 못한 선수

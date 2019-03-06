@@ -8,7 +8,7 @@ public class Programmers42577 {
         Arrays.sort(phone_book);
         for (int i = 0; i < phone_book.length; i++){
             for (int j = i + 1; j < phone_book.length; j++){
-                if (phone_book[j].contains(phone_book[i])){
+                if (phone_book[j].startsWith(phone_book[i])){
                     answer = false;
                     break;
                 }
@@ -20,7 +20,7 @@ public class Programmers42577 {
     public static void main(String args[]){
         Programmers42577 p = new Programmers42577();
         String[] phone_book = {"119", "97674223", "1195524421"};
-        String[] phone_book2 = {"12", "123", "12345","567","88"};
+        String[] phone_book2 = {"12", "53412", "567","88"};
         System.out.println(p.solution(phone_book2));
     }
 }

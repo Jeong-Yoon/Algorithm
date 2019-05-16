@@ -13,10 +13,10 @@ public class Problem2577 {
 
         int x[] = new int[10];
 
-        String num = String.valueOf(A*B*C);
+        String num = String.valueOf(A * B * C);
 
         for (int i = 0; i < num.length(); i++) {
-            switch(num.charAt(i)) {
+            switch (num.charAt(i)) {
 
                 case '0':
                     x[0]++;

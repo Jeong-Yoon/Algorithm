@@ -1,4 +1,4 @@
-package Programmers;
+package programmers;
 
 public class Programmers12948 {
     public String solution(String phone_number) {

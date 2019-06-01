@@ -1,4 +1,4 @@
-package Programmers;
+package programmers;
 
 public class Programmers12909 {
     boolean solution(String s) {

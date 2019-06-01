@@ -1,4 +1,4 @@
-package Programmers;
+package programmers;
 
 public class Programmers12950 {
     public int[][] solution(int[][] arr1, int[][] arr2) {

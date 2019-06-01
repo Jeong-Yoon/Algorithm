@@ -18,10 +18,10 @@ public class Problem1874 {
             num[i] = Integer.parseInt(br.readLine());
         }
 
-        for (int i = 1; i <= size; i++){
+        for (int i = 1; i <= size; i++) {
             stack.push(i);
             sb.append("+ \n");
-            while (!stack.empty() && num[index] == stack.peek()){
+            while (!stack.empty() && num[index] == stack.peek()) {
                 index++;
                 stack.pop();
                 sb.append("- \n");

@@ -1,4 +1,4 @@
-package Programmers;
+package programmers;
 
 public class Programmers12933 {
     public long solution(long n) {
@@ -7,9 +7,9 @@ public class Programmers12933 {
 
         String str = "";
 
-        for (int i = 0; i < number.length; i++){
-            for (int j = i+1; j < number.length; j++){
-                if (number[i] - 48 < number[j] - 48){
+        for (int i = 0; i < number.length; i++) {
+            for (int j = i + 1; j < number.length; j++) {
+                if (number[i] - 48 < number[j] - 48) {
                     char tmp = number[i];
                     number[i] = number[j];
                     number[j] = tmp;
@@ -21,7 +21,8 @@ public class Programmers12933 {
 
         return answer;
     }
-    public static void main(String args[]){
+
+    public static void main(String args[]) {
 //        System.out.println(solution());
     }
 }

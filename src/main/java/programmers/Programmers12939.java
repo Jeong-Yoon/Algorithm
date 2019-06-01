@@ -1,4 +1,4 @@
-package Programmers;
+package programmers;
 
 public class Programmers12939 {
     public String solution(String s) {

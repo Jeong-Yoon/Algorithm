@@ -1,4 +1,4 @@
-package Programmers;
+package programmers;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -15,7 +15,7 @@ public class Programmers12910 {
         }
         if (arrayList.size() == 0) {
             answer = new int[]{-1};
-        }else {
+        } else {
             answer = new int[arrayList.size()];
             for (int i = 0; i < answer.length; i++) {
                 answer[i] = arrayList.get(i);
@@ -24,9 +24,9 @@ public class Programmers12910 {
         Arrays.sort(answer);
         return answer;
     }
-    
+
     public static void main(String args[]) {
-        int[] arr = {3,2,6};
+        int[] arr = {3, 2, 6};
         solution(arr, 5);
         for (int i : solution(arr, 5)) {
             System.out.println(i);

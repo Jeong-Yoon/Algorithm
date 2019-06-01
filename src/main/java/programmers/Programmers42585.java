@@ -1,7 +1,9 @@
+package programmers;
+
 import java.util.Stack;
 
-class Solution {
-       public int solution(String arrangement) {
+public class Programmers42585 {
+    public int solution(String arrangement) {
         int answer = 0;
         Stack arr = new Stack();
         int stick = 0;
@@ -15,7 +17,7 @@ class Solution {
                     answer += arr.size();
                 }
             } else if (arrangement.charAt(i) == ')') {
-                if(arrangement.charAt(i-1) ==')'){
+                if (arrangement.charAt(i - 1) == ')') {
                     if (arr.size() != 0) {
                         arr.pop();
                     }

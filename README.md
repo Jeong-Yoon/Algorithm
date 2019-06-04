@@ -24,10 +24,10 @@
 - 2019.03.06 : 프로그래머스 42577 전화번호 목록
 - 2019.03.08 : 프로그래머스 42746 가장 큰 수
 - 2019.03.11 : 프로그래머스 42578 위장
-- 2019.04.11 : 백준 알고리즘 2178 미로탐색(BFS/DFS)
+- 2019.04.11 : 백준 알고리즘 2178 미로탐색 (BFS/DFS)
 - 2019.04.12 : 백준 알고리즘 2606 바이러스
 - 2019.05.08 : 프로그래머스 49993 스킬트리
 - 2019.05.27 : 프로그래머스 42626 더 맵게<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hackerrank BirthdayChocolate<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프로그래머스 42862 탐욕법(Greedy) 체육복
-- 2019.05.30 : 프로그래머스 42583 다리를 지나는 트럭
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프로그래머스 42862  체육복 (탐욕법(Greedy))
+- 2019.05.30 : 프로그래머스 42583 다리를 지나는 트럭 (스택/큐)

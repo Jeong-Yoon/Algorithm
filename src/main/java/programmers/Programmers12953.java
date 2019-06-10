@@ -1,5 +1,8 @@
 package programmers;
-
+/*
+연습문제
+N개의 최소공배수
+ */
 import java.util.Arrays;
 
 public class Programmers12953 {
@@ -7,25 +10,40 @@ public class Programmers12953 {
         int answer = 0;
 
         Arrays.sort(arr);
-        for (int i = arr.length; i > 0; i--){
-
+        int temp = arr[0];
+        for(int i = 0; i < arr.length; i++){
+            temp = temp * arr[i] / gcd(temp, arr[i]);
         }
 
-        int n = arr[arr.length - 1];
-        for (int i = n; i <= (n - 1) * n; i++) {
-            int cnt = 0;
-            for (int j = 0; j < arr.length; j++) {
-                if (i % arr[j] == 0) {
-                    cnt++;
-                }
-            }
-            if (cnt == arr.length) {
-                answer = i;
-                break;
-            }
+        answer = temp;
 
-        }
+//        int n = arr[arr.length - 1];
+//        if(n == 1){
+//            answer = n;
+//        } else{
+//            for (int i = n; i <= (n - 1) * n; i++) {
+//                int cnt = 0;
+//                for (int j = 0; j < arr.length; j++) {
+//                    if (i % arr[j] == 0) {
+//                        cnt++;
+//                    }
+//                }
+//                if (cnt == arr.length) {
+//                    answer = i;
+//                    break;
+//                }
+//            }
+//        }
         return answer;
+    }
+
+    public int gcd(int a, int b){
+        while(b!=0){
+            int r = a%b;
+            a= b;
+            b= r;
+        }
+        return a;
     }
 
     public static void main(String args[]) {
@@ -40,5 +58,9 @@ public class Programmers12953 {
         System.out.println(p.solution(arr3));
         System.out.println(p.solution(arr4));
         System.out.println(p.solution(arr5));
+        System.out.println(p.solution(new int[]{1,5}));
+        System.out.println(p.solution(new int[]{1,1,1,1,1}));
+        System.out.println(p.solution(new int[]{7}));
+        System.out.println(p.solution(new int[]{95,96,97,98,99}));
     }
 }

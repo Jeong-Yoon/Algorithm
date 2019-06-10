@@ -12,18 +12,18 @@ public class Programmers12951 {
     public String solution(String s) {
         String answer = "";
         StringBuffer sb = new StringBuffer();
-        int cnt = 0;
+        boolean first = true;
         for(int i = 0; i < s.length(); i++){
             if(s.charAt(i) == ' '){
-                cnt = 0;
+                first = true;
                 sb.append(s.charAt(i));
             } else {
-                if (!Character.isDigit(s.charAt(i)) && cnt == 0){
+                if (!Character.isDigit(s.charAt(i)) && first){
                     sb.append(Character.toUpperCase(s.charAt(i)));
                 } else {
                     sb.append(Character.toLowerCase(s.charAt(i)));
                 }
-                cnt++;
+                first = false;
             }
         }
         answer = sb.toString();
@@ -34,5 +34,6 @@ public class Programmers12951 {
         Programmers12951 p = new Programmers12951();
         System.out.println(p.solution("3people unFollowed me"));
         System.out.println(p.solution("for the last week"));
+        System.out.println(p.solution("for the last week  "));
     }
 }

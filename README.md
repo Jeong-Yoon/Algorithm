@@ -47,3 +47,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;백준 알고리즘 4307 개미
 - 2019.06.22 : 백준 알고리즘 2747 피보나치 수<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;백준 알고리즘 10872 팩토리얼
+- 2019.07.01 : 백준 알고리즘 1676 팩토리얼 0의 개수

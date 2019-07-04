@@ -49,3 +49,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;백준 알고리즘 10872 팩토리얼
 - 2019.07.01 : 백준 알고리즘 1676 팩토리얼 0의 개수
 - 2019.07.03 : 백준 알고리즘 9095 1, 2, 3 더하기
+- 2019.07.04 : 백준 알고리즘 1316 그룹 단어 체커

@@ -1,10 +1,10 @@
 package baekjoon;
 
-import java.util.Scanner;
-
 /*
  * 1, 2, 3 더하기
  */
+
+import java.util.Scanner;
 
 public class Problem9095 {
 	public static void main(String args[]){

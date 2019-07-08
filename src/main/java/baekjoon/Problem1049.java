@@ -1,9 +1,9 @@
 package baekjoon;
-
-import java.util.Arrays;
 /*
 기타줄
  */
+
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Problem1049 {

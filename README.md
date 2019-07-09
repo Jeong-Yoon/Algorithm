@@ -54,3 +54,4 @@
 - 2019.07.07 : 백준 알고리즘 1049 기타줄
 - 2019.07.08 : 백준 알고리즘 10809 알파벳 찾기<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;백준 알고리즘 7785 회사에 있는 사람
+- 2019.07.09 : 백준 알고리즘 10844 쉬운 계단 수

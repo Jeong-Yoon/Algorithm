@@ -55,3 +55,6 @@
 - 2019.07.08 : 백준 알고리즘 10809 알파벳 찾기<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;백준 알고리즘 7785 회사에 있는 사람
 - 2019.07.09 : 백준 알고리즘 10844 쉬운 계단 수
+- 2019.07.11 : 백준 알고리즘 1157 단어 공부<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;백준 알고리즘 2750 수 정렬하기<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;백준 알고리즘 2869 달팽이는 올라가고 싶다

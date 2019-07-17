@@ -1,4 +1,5 @@
 package baekjoon;
+
 /*
  * 포도주 시식
  */

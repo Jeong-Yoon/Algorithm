@@ -63,3 +63,4 @@
 - 2019.07.15 : 백준 알고리즘 11053 가장 긴 증가하는 부분 수열<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;백준 알고리즘 2156 포도주 시식
 - 2019.07.16 : 백준 알고리즘 10828 스택
+- 2019.07.18 : 백준 알고리즘 1978 소수 찾기

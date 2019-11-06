@@ -64,3 +64,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;백준 알고리즘 2156 포도주 시식
 - 2019.07.16 : 백준 알고리즘 10828 스택
 - 2019.07.18 : 백준 알고리즘 1978 소수 찾기
+- 2019.11.05 : 백준 알고리즘 10819 차이를 최대로

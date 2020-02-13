@@ -67,4 +67,4 @@
 - 2019.11.05 : 백준 알고리즘 10819 차이를 최대로
 - 2019.11.06 : 프로그래머스 42586 기능개발
 - 2020.02.13 : 프로그래머스 12901 2016년<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프로그래머스 42840 모의고사
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프로그래머스 42840 모의고사(완전탐색)

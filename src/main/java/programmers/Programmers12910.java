@@ -2,7 +2,9 @@ package programmers;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
+/*
+ * 나누어 떨어지는 숫자 배열
+ */
 public class Programmers12910 {
     public static int[] newSolution (int[] arr, int divisor) {
         int[] answer = {};

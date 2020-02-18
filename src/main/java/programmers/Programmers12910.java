@@ -4,6 +4,21 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Programmers12910 {
+    public static int[] newSolution (int[] arr, int divisor) {
+        int[] answer = {};
+		ArrayList<Integer> list = new ArrayList<Integer>();
+		for(int num : arr) {
+			if(num % divisor == 0) {
+				list.add(num);
+			}
+		}
+		
+		answer = (list.size() == 0) ?  new int[]{-1} : list.stream().mapToInt(i -> i).toArray();
+		Arrays.sort(answer);
+		
+		return answer;
+    }
+    
     public static int[] solution(int[] arr, int divisor) {
         ArrayList<Integer> arrayList = new ArrayList<>();
         int[] answer = {};

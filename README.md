@@ -68,3 +68,4 @@
 - 2019.11.06 : 프로그래머스 42586 기능개발
 - 2020.02.13 : 프로그래머스 12901 2016년<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프로그래머스 42840 모의고사(완전탐색)
+- 2020.02.18 : 프로그래머스 12910 나누어 떨어지는 숫자 배열
